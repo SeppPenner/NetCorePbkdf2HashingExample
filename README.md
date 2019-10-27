@@ -36,4 +36,5 @@ public static void Main(string[] args)
 Change history
 --------------
 
+* **Version 1.0.1.0 (2019-10-27)** : Updated nuget packages, added GitVersionTask.
 * **Version 1.0.0.0 (2019-06-27)** : 1.0 release.
