@@ -7,7 +7,7 @@ NetCorePbkdf2HashingExample is a project to show how to use Pbkdf2 hashing in a 
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/NetCorePbkdf2HashingExample.svg)](https://github.com/SeppPenner/NetCorePbkdf2HashingExample/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/NetCorePbkdf2HashingExample.svg)](https://github.com/SeppPenner/NetCorePbkdf2HashingExample/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/NetCorePbkdf2HashingExample.svg)](https://github.com/SeppPenner/NetCorePbkdf2HashingExample/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/NetCorePbkdf2HashingExample/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/NetCorePbkdf2HashingExample/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/NetCorePbkdf2HashingExample/badge.svg)](https://snyk.io/test/github/SeppPenner/NetCorePbkdf2HashingExample)
 
 ## Main code:
