@@ -1,7 +1,7 @@
 NetCorePbkdf2HashingExample
 ====================================
 
-NetCorePbkdf2HashingExample is a project to show how to use Pbkdf2 hashing in a custom project. The project was written and tested in .NetCore 2.2.
+NetCorePbkdf2HashingExample is a project to show how to use Pbkdf2 hashing in a custom project. The project was written and tested in .Net 5.0.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/1lq5x72xcveithei?svg=true)](https://ci.appveyor.com/project/SeppPenner/netcorepbkdf2hashingexample)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/NetCorePbkdf2HashingExample.svg)](https://github.com/SeppPenner/NetCorePbkdf2HashingExample/issues)
@@ -32,9 +32,9 @@ public static void Main(string[] args)
 
 ## Further notices:
 * The project uses the ASP.NetCore hashing mechanisms from: https://github.com/aspnet/AspNetCore. Thanks to all the developers there.
+* You shouldn't use this project, use the `ASP.NET Core Identity PasswordHasher` as described under https://andrewlock.net/exploring-the-asp-net-core-identity-passwordhasher/.
 
 Change history
 --------------
 
-* **Version 1.0.1.0 (2019-10-27)** : Updated nuget packages, added GitVersionTask.
-* **Version 1.0.0.0 (2019-06-27)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/NetCorePbkdf2HashingExample/blob/master/Changelog.md).
